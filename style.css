@@ -9,5 +9,5 @@ text-align: center;
 }
 
 section figure img {
-text-align: center;
+  align-self: center;
 }
