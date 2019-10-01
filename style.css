@@ -26,4 +26,5 @@ section > figure > figcaption {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  font-size: 11px;
 }
