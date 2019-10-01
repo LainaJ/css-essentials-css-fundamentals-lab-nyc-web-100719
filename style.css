@@ -26,3 +26,8 @@ section > figure > figcaption {
   text-align: center;
   margin: auto;
 }
+
+#details div {
+  display: block;
+  float: left;
+}
