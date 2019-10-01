@@ -20,3 +20,10 @@ a {
   padding-right: 10px;
   background-color: grey;
 }
+
+section figure img figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
