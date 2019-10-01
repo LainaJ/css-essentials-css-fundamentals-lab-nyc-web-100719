@@ -28,3 +28,8 @@ section > figure > figcaption {
   width: 50%;
   font-size: 11px;
 }
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
